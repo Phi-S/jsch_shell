@@ -3,7 +3,7 @@ import com.jcraft.jsch.*;
 import java.io.*;
 import java.util.ArrayList;
 
-public class jsch_shell_java_api {
+public class jsch_shell {
 
 	private PipedOutputStream pos;
 
